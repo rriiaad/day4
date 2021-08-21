@@ -223,4 +223,7 @@ header div {
   main {
     width: 95vw;
   }
+  #usr {
+    top: 50px;
+  }
 }
